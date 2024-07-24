@@ -5,7 +5,7 @@ This project involves the use of python packages like pandas and nltk (natural
 language tool kit) as this task is of sentiment analysis. The goal of this project is
 to analyse the sentiment of flipkart review and to accurately extract people's
 opinions from a large number of unstructured review texts and classifying them
-into sentiment classe
+into sentiment classes
 
 #Modules Used In The Project: 
 
